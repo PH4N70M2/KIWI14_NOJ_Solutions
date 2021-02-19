@@ -26,7 +26,7 @@ int main() {
 	
 	do {
 		printf("%d", arr[i]);
-	} while(i--);
+	} while (i--);
 
 }
 	/* 
